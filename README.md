@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, I'm Samuel Ribeiro</h1>
-<h3 align="center">O pika das Galáxias</h3>
+<h3 align="center">Vida rasa 4-4-2</h3>
 
 <p align="left"> <img src="https ://komarev.com/ghpvc/?username=saamuelsilvaa&label=Profile%20views&color=0e75b6&style=flat" alt="saamuelsilvaa" /> </p>
 
